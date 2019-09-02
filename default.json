@@ -1,0 +1,7 @@
+{
+	"server": true,
+	"data_dir":"/var/consul",
+	"bind_addr": "127.0.0.1",
+       	"client_addr": "0.0.0.0",
+       	"bootstrap_expect": 1
+}
