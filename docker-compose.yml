@@ -1,0 +1,8 @@
+version: "3"
+services:
+
+  cs1:
+    image: consul:1.6.0
+    ports:
+      - "8500:8500"
+#    command: "agent -dev -ui"
